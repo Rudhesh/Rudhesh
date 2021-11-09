@@ -92,7 +92,7 @@
              alt="CodeSandbox">
 </a>
 
-<a href="https://https://www.linkedin.com/in/rudesh-dhote-a00a22208/">
+<a href="https://www.linkedin.com/in/rudesh-dhote-a00a22208/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
              alt="LinkedIn">
 </a>
