@@ -28,6 +28,7 @@
 </p>
 
 <br/>
+
 <br/>
 
 <a href="https://www.markdownguide.org">
@@ -73,8 +74,8 @@
 
 ---
 
-  <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=DMawi17&show_icons=true&theme=radical&hide_border=true" />
-  <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMawi17&layout=compact&theme=radical&hide_border=true" />
+  <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=Rudhesh&show_icons=true&theme=radical&hide_border=true" />
+  <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudhesh&layout=compact&theme=radical&hide_border=true" />
 
 <br/>
 <br/>
@@ -82,19 +83,16 @@
 ## Find me around the web 🌎:
 
 
-<a href="https://codepen.io/dmawi17/pens/public">
+<a href="https://codepen.io/rudesh/pens/public">
         <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" 
              alt="CodePen">
 </a>
-<a href="https://codesandbox.io/u/DMawi17">
+<a href="https://codesandbox.io/u/rudesh">
         <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" 
              alt="CodeSandbox">
 </a>
-<a href="https://replit.com/@DMawi17">
-        <img src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white" 
-             alt="Repl.it">
-</a>
-<a href="https://www.linkedin.com/in/dmawi17/">
+
+<a href="https://https://www.linkedin.com/in/rudesh-dhote-a00a22208/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
              alt="LinkedIn">
 </a>
@@ -107,8 +105,8 @@
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
     </a>
-    <a href="https://github.com/DMawi17?tab=followers">
-        <img src="https://img.shields.io/github/followers/DMawi17?label=Followers&style=social" 
+    <a href="https://github.com/Rudhesh?tab=followers">
+        <img src="https://img.shields.io/github/followers/Rudhesh?label=Followers&style=social" 
              alt="GitHub Badge">
     </a>
 </p>
