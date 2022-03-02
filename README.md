@@ -9,7 +9,7 @@
 
 ### 🙋🏾‍♂️ About Me
 
--   🔭 I’m currently working as a Junior Software Engineer with [Breeze Technologies].(https://www.breeze-technologies.de/)
+-   🔭 I’m currently working as a Junior Software Engineer with [Breeze Technologies](https://www.breeze-technologies.de/)
 -   🌱 I done my course as full stack web development from [DCI](https://github.com/DigitalCareerInstitute).
 -   👨🏻‍💼 I done my internship as full stack web development from [Active It Recruitment](https://active-it-recruitment.com/).
 -   👨🏾‍💻 All of my projects are available at **[My Portfolio](https://happy-curie-f9396c.netlify.app/)**
