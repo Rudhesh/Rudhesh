@@ -11,7 +11,7 @@
 
 -   🔭 I’m currently working on my [final project](https://secret-record.herokuapp.com/)
 -   🌱 I’m studying a full stack web development course with [DCI](https://github.com/DigitalCareerInstitute).
--   👨🏾‍💻 All of my projects are available at **[My Portfolio]()**
+-   👨🏾‍💻 All of my projects are available at **[My Portfolio](https://happy-curie-f9396c.netlify.app/)**
 -   👯 I’m looking to collaborate on Open Source Projects.
 -   📫 How to reach me: rudeshdhote@gmail.com
 -   😄 Pronouns: Rudesh
