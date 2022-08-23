@@ -12,7 +12,7 @@
 -   🔭 I’m currently working as a Junior Software Engineer with [Breeze Technologies](https://www.breeze-technologies.de/)
 -   🌱 I done my course as full stack web development from [DCI](https://github.com/DigitalCareerInstitute).
 -   👨🏻‍💼 I done my internship as full stack web development from [Active It Recruitment](https://active-it-recruitment.com/).
--   👨🏾‍💻 All of my projects are available at **[My Portfolio](https://happy-curie-f9396c.netlify.app/)**
+-   👨🏾‍💻 All of my projects are available at **[My Portfolio](https://my-portfolio-1991.netlify.app/)**
 -   👯 I’m looking to collaborate on Open Source Projects.
 -   📫 How to reach me: rudeshdhote@gmail.com
 -   😄 Pronouns: Rudesh
